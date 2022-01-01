@@ -15,4 +15,6 @@ Ready for the understatement of the year? Yes...I am that dumb...
 
 ![Chat_Log_3](images/Chat_3.png)
 
-Now, before I sent my gnomie, I checked the scammers wallet on the Solana Explorer. Indeed, he did hold the pesky he was purporting to trade.  
+Now, before I sent my gnomie, I checked the scammers wallet on the Solana Explorer. Indeed, he did hold the [PeskyPenguin](https://explorer.solana.com/address/3C5PXZYyPQWe1UEhuYMbmBdnsoWGRUe4YYmLBLojH27Z/largest) he was purporting to trade.  
+
+![Penguin_Owner](images/Penguin_Owner.png)
