@@ -18,3 +18,7 @@ Ready for the understatement of the year? Yes...I am that dumb...
 Now, before I sent my gnomie, I checked the scammers wallet on the Solana Explorer. Indeed, he did hold the [PeskyPenguin](https://explorer.solana.com/address/3C5PXZYyPQWe1UEhuYMbmBdnsoWGRUe4YYmLBLojH27Z/largest) he was purporting to trade.  
 
 ![Penguin_Owner](images/Penguin_Owner.png)
+
+So I sent my gnomie, and he sent...[this](https://solscan.io/address/DPDswWavy7QL74RCZFAKi6Pfh5e7AZjFnuJ638yujja)...  
+
+![Fake_Penguin](images/Fake_Penguin.JPG)  
